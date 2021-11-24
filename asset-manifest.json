@@ -1,13 +1,13 @@
 {
-  "main.css": "/09-todo-react-group-08-todo-javascript-group-johnny-che/static/css/main.1af24ae9.chunk.css",
-  "main.js": "/09-todo-react-group-08-todo-javascript-group-johnny-che/static/js/main.f9b26d5b.chunk.js",
-  "main.js.map": "/09-todo-react-group-08-todo-javascript-group-johnny-che/static/js/main.f9b26d5b.chunk.js.map",
-  "static/js/1.0cdd6f18.chunk.js": "/09-todo-react-group-08-todo-javascript-group-johnny-che/static/js/1.0cdd6f18.chunk.js",
-  "static/js/1.0cdd6f18.chunk.js.map": "/09-todo-react-group-08-todo-javascript-group-johnny-che/static/js/1.0cdd6f18.chunk.js.map",
-  "runtime~main.js": "/09-todo-react-group-08-todo-javascript-group-johnny-che/static/js/runtime~main.26283fbc.js",
-  "runtime~main.js.map": "/09-todo-react-group-08-todo-javascript-group-johnny-che/static/js/runtime~main.26283fbc.js.map",
-  "static/css/main.1af24ae9.chunk.css.map": "/09-todo-react-group-08-todo-javascript-group-johnny-che/static/css/main.1af24ae9.chunk.css.map",
-  "index.html": "/09-todo-react-group-08-todo-javascript-group-johnny-che/index.html",
-  "precache-manifest.2ca01872d94fba3c87a5d8eaf962db50.js": "/09-todo-react-group-08-todo-javascript-group-johnny-che/precache-manifest.2ca01872d94fba3c87a5d8eaf962db50.js",
-  "service-worker.js": "/09-todo-react-group-08-todo-javascript-group-johnny-che/service-worker.js"
+  "main.css": "/09-todo-react-group-johnny-che/static/css/main.1af24ae9.chunk.css",
+  "main.js": "/09-todo-react-group-johnny-che/static/js/main.f9b26d5b.chunk.js",
+  "main.js.map": "/09-todo-react-group-johnny-che/static/js/main.f9b26d5b.chunk.js.map",
+  "static/js/1.0cdd6f18.chunk.js": "/09-todo-react-group-johnny-che/static/js/1.0cdd6f18.chunk.js",
+  "static/js/1.0cdd6f18.chunk.js.map": "/09-todo-react-group-johnny-che/static/js/1.0cdd6f18.chunk.js.map",
+  "runtime~main.js": "/09-todo-react-group-johnny-che/static/js/runtime~main.3bf2c31b.js",
+  "runtime~main.js.map": "/09-todo-react-group-johnny-che/static/js/runtime~main.3bf2c31b.js.map",
+  "static/css/main.1af24ae9.chunk.css.map": "/09-todo-react-group-johnny-che/static/css/main.1af24ae9.chunk.css.map",
+  "index.html": "/09-todo-react-group-johnny-che/index.html",
+  "precache-manifest.7778e04cf2c6f3b2414f143f6d502ae2.js": "/09-todo-react-group-johnny-che/precache-manifest.7778e04cf2c6f3b2414f143f6d502ae2.js",
+  "service-worker.js": "/09-todo-react-group-johnny-che/service-worker.js"
 }
